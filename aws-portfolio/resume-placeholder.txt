@@ -1,0 +1,5 @@
+Replace this file with your real resume PDF before deployment.
+
+Steps:
+1. Add your resume to this folder and name it resume.pdf.
+2. In index.html, change the resume button link from resume-placeholder.txt to resume.pdf.
